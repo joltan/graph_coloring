@@ -8,6 +8,6 @@ This solution code will model the graph colouring problem using integer programm
 - Model 1: Use binary variables x[v][i] which indicate if vertex v is assigned colour i.
 - Model 2: Use integer variables x[v] which indicate the colour that is assigned to vertex v.
 
-  # Run the code  in CMD
-  pip install -r requirements.txt
-  python solution.py
+## How to run the program
+pip install -r requirements.txt
+python solution.py
